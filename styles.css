@@ -1,2 +1,27 @@
-
+.my{
+    width:200px;
+    padding: 10px;
+    
+    background-color: purple;
+    /* border: solid 5px 0px 0px 0px; */
+    border-left:solid 5px;
+    border-color: green ;
+}
+.first{
+    font-size: 20px;
+    color: white;
+}
 /* Your CSS Code here. */
+/* container div width -> 200px; background color -> purple;
+
+left side border color -> green;
+
+left side border thickness -> 5 pixels;
+
+padding on all sides in div -> 10px;
+
+text font size -> 20 pixels
+
+heading color -> white
+
+Edit styles.css & main.html to get this exact image output and pass test cases --> */
